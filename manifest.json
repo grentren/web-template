@@ -2,7 +2,7 @@
   "name": "title",
   "short_name": "title",
   "start_url": "index.html",
-  "display": "fullscreen",
+  "display": "minimal-ui",
   "background_color": "#1e81b0",
   "theme_color": "#76b5c5",
   "orientation": "portrait-primary"
